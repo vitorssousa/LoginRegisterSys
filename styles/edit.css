@@ -1,0 +1,17 @@
+html,body {
+    height: 100vh;
+    overflow: hidden;
+}
+
+main {
+    height:100%;
+    display: grid;
+    place-items: center;
+}
+
+
+
+
+#updateForm{
+    width: 300px;
+}
